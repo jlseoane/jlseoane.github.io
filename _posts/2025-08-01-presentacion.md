@@ -3,6 +3,7 @@ layout: post
 title: "¿Porqué este blog?"
 date: 2025-08-01
 ---
+<img src="/assets/images/josel.jpg" alt="Jose L. Seoane" style="width: 100px; border-radius: 50%; margin-bottom: 1rem;">
 Mi nombre es **Jose L. Seoane**, tengo 59 años y vivo en Tenerife.
 
 Si has leído algún artículo de este blog antes que este, es posible que hayas pensado en mí como un sacerdote, o tal vez un psicólogo; nada más lejos de la realidad. Soy Guardia Civil por vocación desde mi juventud, profesión a la que he dedicado más de 40 años, y los últimos, a la investigación de delitos graves, especialmente homicidios.
