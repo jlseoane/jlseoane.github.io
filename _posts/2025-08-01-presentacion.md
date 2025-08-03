@@ -8,7 +8,7 @@ Mi nombre es **Jose L. Seoane**, tengo 59 años y vivo en Tenerife.
 
 Si has leído algún artículo de este blog antes que este, es posible que hayas pensado en mí como un sacerdote, o tal vez un psicólogo; nada más lejos de la realidad. Soy Guardia Civil por vocación desde mi juventud, profesión a la que he dedicado más de 40 años, y los últimos, a la investigación de delitos graves, especialmente homicidios.
 
-Esa vocación me llevó a una dedicación intensa, con la consiguiente acumulación de estrés y ansiedad, hasta que hace unos diez años colapsé. Tuve la suerte de caer en manos de un equipo de terapeutas que recogieron mis pedazos y me ayudaron a reconstruirme, pero ya con otro perfil.
+Esta vocación me llevó a una dedicación intensa, con la consiguiente acumulación de estrés y ansiedad, hasta que hace unos diez años colapsé. Tuve la suerte de caer en manos de un equipo de terapeutas que recogieron mis pedazos y me ayudaron a reconstruirme, pero ya con otro perfil.
 
 Ese trabajo, del que me siento profundamente agradecido, abrió las ventanas de mi vida para que entrase aire fresco. Poco a poco, fui aprendiendo a conocerme, a hacerme preguntas que antes ni me planteaba, y a buscar respuestas con honestidad.
 
