@@ -1,4 +1,6 @@
 theme: minima
+plugins:
+  - jekyll-feed
 
 title: José L. Seoane
 author: José L. Seoane
