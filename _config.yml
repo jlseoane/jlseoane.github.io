@@ -3,7 +3,7 @@ plugins:
   - jekyll-feed
 
 title: José L. Seoane
-author: José L. Seoane
+# author: José L. Seoan
 # description: >-
 #  Blog personal sobre experiencias y reflexiones filosóficas.
 email: jlseovaz@gmail.com
@@ -12,4 +12,3 @@ email: jlseovaz@gmail.com
 header_pages:
   - index.md
 
-footer_text: "© 2025 José L. Seoane"
