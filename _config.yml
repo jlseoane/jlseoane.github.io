@@ -1,1 +1,13 @@
 theme: minima
+
+title: José L. Seoane
+author: José L. Seoane
+description: >-
+  Blog personal sobre experiencias y reflexiones filosóficas.
+email: jlseovaz@gmail.com
+github_username: jlseoane
+
+header_pages:
+  - index.md
+
+footer_text: "© 2025 José L. Seoane"
