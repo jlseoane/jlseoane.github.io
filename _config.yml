@@ -2,10 +2,10 @@ theme: minima
 
 title: José L. Seoane
 author: José L. Seoane
-description: >-
-  Blog personal sobre experiencias y reflexiones filosóficas.
+# description: >-
+#  Blog personal sobre experiencias y reflexiones filosóficas.
 email: jlseovaz@gmail.com
-github_username: jlseoane
+# github_username: jlseoane
 
 header_pages:
   - index.md
